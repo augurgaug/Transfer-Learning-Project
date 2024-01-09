@@ -30,7 +30,7 @@ bir kısmını eğitim bir kısmını test ve bir kısmını da validation için
 
 ## Proje Dosya Yapısı
 
-ProjeÖdevi.ipynb
+pneumonia_transfer_learning.ipynb
 
 
 ---
